@@ -14,6 +14,9 @@ a {
     display: inline-block;
 }
 
+.ticketlink {
+  color: #a3a651;
+}
 
 .initial-page {
   display: flex;
